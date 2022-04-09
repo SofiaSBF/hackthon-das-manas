@@ -28,22 +28,52 @@ Foram apresentados seis desafios no qual foi escolhido o <b>desafio quatro</b>.<
  
  <h2> Tela 1</h2>
   
+  <img src="https://i.ibb.co/txWmRTN/Tela-1.png">
+  
  <h2> Tela 2</h2>
+  
+  
+  <img src="https://i.ibb.co/sKLY6j1/tela-2.png">
+  
+  
   
  <h2> Tela 3</h2>
   
+  <img src="https://i.ibb.co/swmv4md/Tela-3.png">
+  
    <h2> Tela 4</h2>
+  
+  <img src="https://i.ibb.co/L9Xm5Bp/tela-4.png"></a>
+  
   
    <h2> Tela 5</h2>
   
   
+  <img src="https://i.ibb.co/986mBd2/tela-5.png">
+  
+  
   <h2>Banner:</h2>
+  
+  
+  <img src="https://i.ibb.co/yytMNHT/banner-site.png">
+  
   
   <h2> Logo:</h2> 
   
+   <img src="https://i.ibb.co/C5LCCnL/logo.png">
+  
   <h1>Participantes do Projeto</h1> 
   
+  <ul>  
+<li> <a href='https://www.linkedin.com/in/rhutyllaynny-mendes-889255a5/' target='_blank'>Rhutyllaynny Mendes - UX</a></li>
+<li><a href='https://www.linkedin.com/in/crislanecosta/' target='_blank'>Crislane Costa - UX</a></li>
+<li><a href='https://www.linkedin.com/in/giulia-willcox/' target='_blank'> Giulia Wilcox - Dev</li>
+<li><a href='https://www.linkedin.com/in/sofiabfigueira/' target='_blank'>Sofia Figueira - Dev</li>
+<li><a href='https://www.linkedin.com/in/amanda-gomes-de-melo-pereira-0ba88b20b/' target='_blank'>Amanda Gomes - Negócios </li>
   
   
+  
+  
+
   
   
