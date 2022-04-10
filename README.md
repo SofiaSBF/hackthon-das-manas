@@ -65,7 +65,7 @@ Foram apresentados seis desafios no qual foi escolhido o <b>desafio quatro</b>.<
   <h1>Participantes do Projeto</h1> 
   
   <ul>  
-<li> <a href='https://www.linkedin.com/in/rhutyllaynny-mendes-889255a5/' target='_blank'>Rhutyllaynny Mendes - UX</a></li>
+<li> <a href='https://www.linkedin.com/in/rhutyllaynny-mendes-889255a5/' \newpage'>Rhutyllaynny Mendes - UX</a></li>
 <li><a href='https://www.linkedin.com/in/crislanecosta/' target='_blank'>Crislane Costa - UX</a></li>
 <li><a href='https://www.linkedin.com/in/giulia-willcox/' target='_blank'> Giulia Wilcox - Dev</li>
 <li><a href='https://www.linkedin.com/in/sofiabfigueira/' target='_blank'>Sofia Figueira - Dev</li>
