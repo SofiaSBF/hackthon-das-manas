@@ -36,14 +36,13 @@ Foram apresentados seis desafios no qual foi escolhido o <b>desafio quatro</b>.<
   <img src="https://i.ibb.co/sKLY6j1/tela-2.png">
   
   
-  
  <h2> Tela 3</h2>
   
   <img src="https://i.ibb.co/swmv4md/Tela-3.png">
   
    <h2> Tela 4</h2>
   
-  <img src="https://i.ibb.co/L9Xm5Bp/tela-4.png"></a>
+  <img src="https://i.ibb.co/L9Xm5Bp/tela-4.png">
   
   
    <h2> Tela 5</h2>
@@ -67,10 +66,13 @@ Foram apresentados seis desafios no qual foi escolhido o <b>desafio quatro</b>.<
   <ul>  
 <li> <a href='https://www.linkedin.com/in/rhutyllaynny-mendes-889255a5/' \newpage'>Rhutyllaynny Mendes - UX</a></li>
 <li><a href='https://www.linkedin.com/in/crislanecosta/' target='_blank'>Crislane Costa - UX</a></li>
-<li><a href='https://www.linkedin.com/in/giulia-willcox/' target='_blank'> Giulia Wilcox - Dev</li>
-<li><a href='https://www.linkedin.com/in/sofiabfigueira/' target='_blank'>Sofia Figueira - Dev</li>
-<li><a href='https://www.linkedin.com/in/amanda-gomes-de-melo-pereira-0ba88b20b/' target='_blank'>Amanda Gomes - Negócios </li>
+  <li><a href='https://www.linkedin.com/in/giulia-willcox/' target='_blank'> Giulia Wilcox - Dev</a></li>
+  <li><a href='https://www.linkedin.com/in/sofiabfigueira/' target='_blank'>Sofia Figueira - Dev</a></li>
+<li><a href='https://www.linkedin.com/in/amanda-gomes-de-melo-pereira-0ba88b20b/'>Amanda Gomes - Negócios </a></li>
   
+  <h1>Roadmap do Projeto<h1>
+
+  Giulia, eu e amanda iremos continuar o projeto e continuar evoluindo junto com a <a href='https://www.linkedin.com/in/trinidysophia/'>Trinidy Sophia</a> uma das mentora do Hackthon das manas.  
   
   
   
