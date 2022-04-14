@@ -70,8 +70,8 @@ Foram apresentados seis desafios no qual foi escolhido o <b>desafio quatro</b>.<
   <li><a href='https://www.linkedin.com/in/sofiabfigueira/' target='_blank'>Sofia Figueira - Dev</a></li>
 <li><a href='https://www.linkedin.com/in/amanda-gomes-de-melo-pereira-0ba88b20b/'>Amanda Gomes - Negócios </a></li>
   
-  <h1>Roadmap do Projeto<h1>
-
+  <h1>Roadmap do Projeto</h1>
+<br>
   Giulia, eu e amanda iremos continuar o projeto e continuar evoluindo junto com a <a href='https://www.linkedin.com/in/trinidysophia/'>Trinidy Sophia</a> uma das mentora do Hackthon das manas.  
   
   
