@@ -25,7 +25,7 @@ Foram apresentados seis desafios no qual foi escolhido o <b>desafio quatro</b>.<
   <b> Pitch do Projeto:</b> https://www.youtube.com/watch?v=qxjQR8PFbpI&ab_channel=GiuliaWillcox
   
   <h1> Protótipo</h1>
- 
+ Telas feitas por <a href='https://www.linkedin.com/in/rhutyllaynny-mendes-889255a5/' \newpage'>Rhutyllaynny Mendes - UX</a></li>
  <h2> Tela 1</h2>
   
   <img src="https://i.ibb.co/txWmRTN/Tela-1.png">
